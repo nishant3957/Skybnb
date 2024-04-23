@@ -29,7 +29,7 @@ app.use(cors({      //connecting the two api
 }));
 
 // console.log(process.env.MONGO_URL)
-mongoose.connect(mongodb+srv://nishantsharma2003:vGfk6uSzAUKCRlsB@cluster5.lxvoiu8.mongodb.net/?retryWrites=true&w=majority&appName=Cluster5L); //connecting with the database
+mongoose.connect(mongodb+srv://nishantsharma2003:<password>@cluster5.lxvoiu8.mongodb.net/?retryWrites=true&w=majority&appName=Cluster5); //connecting with the database
 
 app.get('/test', (req,res)=>{
     res.json('test ok')
