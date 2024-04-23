@@ -85,3 +85,29 @@
 2024-04-21T13:41:10.128Z - [WARN   ] - warn
 2024-04-21T13:41:10.128Z - [INFO   ] - info
 2024-04-21T13:41:10.136Z - [INFO   ] - app is running in mode:
+2024-04-21T13:54:40.951Z - [ERROR  ] - error
+2024-04-21T13:54:40.954Z - [WARN   ] - warn
+2024-04-21T13:54:40.954Z - [INFO   ] - info
+2024-04-21T13:54:40.958Z - [INFO   ] - app is running in mode:
+2024-04-21T13:54:58.964Z - [INFO   ] - user successfull logged in
+2024-04-21T13:59:11.393Z - [ERROR  ] - error
+2024-04-21T13:59:11.396Z - [WARN   ] - warn
+2024-04-21T13:59:11.396Z - [INFO   ] - info
+2024-04-21T13:59:11.401Z - [INFO   ] - app is running in mode:
+2024-04-22T05:27:17.737Z - [ERROR  ] - error
+2024-04-22T05:27:17.742Z - [WARN   ] - warn
+2024-04-22T05:27:17.742Z - [INFO   ] - info
+2024-04-22T05:27:17.750Z - [INFO   ] - app is running in mode:
+2024-04-22T05:28:58.796Z - [ERROR  ] - error
+2024-04-22T05:28:58.802Z - [WARN   ] - warn
+2024-04-22T05:28:58.802Z - [INFO   ] - info
+2024-04-22T05:28:58.812Z - [INFO   ] - app is running in mode:
+2024-04-22T05:29:29.411Z - [INFO   ] - user successfull logged in
+2024-04-22T05:42:26.432Z - [ERROR  ] - error
+2024-04-22T05:42:26.436Z - [WARN   ] - warn
+2024-04-22T05:42:26.437Z - [INFO   ] - info
+2024-04-22T05:42:26.445Z - [INFO   ] - app is running in mode:
+2024-04-22T05:42:41.293Z - [ERROR  ] - error
+2024-04-22T05:42:41.297Z - [WARN   ] - warn
+2024-04-22T05:42:41.297Z - [INFO   ] - info
+2024-04-22T05:42:41.304Z - [INFO   ] - app is running in mode:

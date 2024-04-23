@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "nodemon Index.js",
+    "start": "node Index.js",
     "test": "node ./node_modules/jest/bin/jest && jest --forceExit"
   },
   "dependencies": {
